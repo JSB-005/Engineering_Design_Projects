@@ -1,4 +1,4 @@
-# Engineering Design Portfolio
+# Engineering Design Projects
 
 This repository contains a collection of my engineering design projects, primarily focused on mechanical design, prototyping, and instrumentation. Most of these projects were developed to explore engineering concepts through CAD modelling and design iteration, with an emphasis on understanding how systems are built rather than simply creating models.
 
