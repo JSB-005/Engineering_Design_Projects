@@ -7,9 +7,10 @@ As I continue learning, this repository will grow with more designs, revisions, 
 ## Current Projects:
 
 ### 🚀 Nose Dock Design *(Work in Progress)*
-<img width="1280" height="720" alt="boeig737-8_side" src="https://github.com/user-attachments/assets/9ec0d974-46c4-4463-bc9b-2c999036e57d" />
+<img width="1100" height="533" alt="Screenshot (1754)" src="https://github.com/user-attachments/assets/17f2038d-032f-4ba1-8d8f-87bf945e8f16" />
 
-*Above is the rendered 3d model of boeing737-8 variant, made to scale, by me.*
+
+*Above is the 3d model angular view of the Nose dock system design , made to scale, by me.*
 
 A CAD design of a nose docking mechanism for Boeing-737 variants is currently under active development. The design is being refined through multiple iterations, with improvements to structural integrity, manufacturability, and assembly, as per the client's requirement. The final version, along with detailed documentation, will be uploaded in the coming weeks.
 
